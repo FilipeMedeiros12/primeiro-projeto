@@ -76,8 +76,8 @@ img{
     }
     li {
         color:black;
-        width: 150px;
-        height: 50px;
+        width: 75px;
+        height: 25px;
         background-color:red;
         display: flex;
         justify-content: center;
