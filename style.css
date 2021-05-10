@@ -15,6 +15,7 @@ a{
 ul{
     display: flex;
     flex-direction: row;
+    border-radius: 16px;
 }
 li {
     color:black;
