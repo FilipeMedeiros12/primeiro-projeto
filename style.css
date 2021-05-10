@@ -72,7 +72,7 @@ img{
     }
     ul{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
     }
     li {
         color:black;
