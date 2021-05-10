@@ -60,8 +60,8 @@ img{
         background-color:black;
         color: white;
         display: flex;
-        width: 98%;
-        height: 100%;
+        width: 49%;
+        height: 50%;
         justify-content: center;
         align-items: center;
         flex-direction: column;
