@@ -15,7 +15,6 @@ a{
 ul{
     display: flex;
     flex-direction: row;
-    border-radius: 16px;
 }
 li {
     color:black;
@@ -84,7 +83,7 @@ img{
         justify-content: center;
         align-items: center;
         margin: 15px;
-        font-size: 18px;
+        font-size: 15px;
     }
     img{
         width: 225px;
