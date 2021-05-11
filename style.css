@@ -18,18 +18,26 @@ ul{
   
 }
 li {
-    color:black;
+    color:#2e2222;
     width: 150px;
     height: 50px;
-    background-color:red;
+    background-color:#eb1111;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 15px;
     font-size: 18px;
-    border: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    border: 2px solid #440101;
     border-radius: 15px;
+    box-shadow: 5px 5px 5px #440101;
 }
+li:hover{
+    background-color: #0a0a0ae0;
+    color: #f3f7fae1;    
+}
+
 img{
     width: 450px;
     height: 300px;
