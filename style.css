@@ -98,7 +98,7 @@ img{
         font-family: 'Courier New', Courier, monospace;
         font-weight: 900;
         border: 2px solid #440101;
-        border-radius: 12px;
+        border-radius: 15px;
         box-shadow: 5px 5px 5px #440101;
     }
     li:hover{
